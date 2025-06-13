@@ -1,6 +1,6 @@
 Histogram Equalization with OpenCL
-Divine Jacob (27208564)
-CMP3752 Parallel Programming – Assessment Item 1
+
+Divine Jacob - Parallel Programming 
 
 Overview
 This project implements histogram equalization for both 8-bit and 16-bit grayscale images, using OpenCL to accelerate the processing.
